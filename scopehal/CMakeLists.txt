@@ -106,6 +106,7 @@ set(SCOPEHAL_SOURCES
 	RohdeSchwarzOscilloscope.cpp
 	RohdeSchwarzHMC8012Multimeter.cpp
 	RohdeSchwarzHMC804xPowerSupply.cpp
+	EnjoyDigitalGenericOscilloscope.cpp
 
 	Filter.cpp
 	FilterParameter.cpp
